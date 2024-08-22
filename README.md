@@ -40,14 +40,3 @@ The request should be in JSON format with the following fields:
   "latitude": 40.7128,
   "longitude": -74.0060
 }
-
-
-
-
-
-
-
-
-
-
-
